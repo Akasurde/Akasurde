@@ -34,8 +34,6 @@
 
 ---
 
-<img align="left" alt="Akasurde's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akasurde&show_icons=true&hide_border=true" />
-
 [website]: https://akasurde.github.io/
 [twitter]: https://twitter.com/Pyro46
 [linkedin]: https://www.linkedin.com/in/abhijeet-kasurde-baab8519/
