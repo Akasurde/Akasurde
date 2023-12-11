@@ -1,10 +1,8 @@
 ### Hi there, I'm Abhijeet Kasurde [Akasurde][website] 👋
 
-## I'm a Husband, Father, Developer!
 - 🔭 I’m currently working on a [Ansible][ansible]!
 - 🌱 I’m currently learning Go, RUST and K8S 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
